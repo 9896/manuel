@@ -1,0 +1,2 @@
+# manuel
+Gikomba platform
